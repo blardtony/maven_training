@@ -1,5 +1,4 @@
-package fr.lernejo;
-
+import fr.lernejo.Sample;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
